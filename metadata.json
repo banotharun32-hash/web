@@ -1,0 +1,6 @@
+{
+  "name": "Priya Restaurant",
+  "description": "A premium, modern 3D luxury dining experience website for Priya Restaurant in Hyderabad featuring interactive Three.js visuals, table booking, dynamic menu filtering, and online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
